@@ -21,3 +21,5 @@ To start the app in Terminal use:
 
 `python weather.py honolulu --imperial` for Farenheit
 `python weather.py london` for Celcius
+
+Hat tip to: https://realpython.com/build-a-python-weather-app-cli/
