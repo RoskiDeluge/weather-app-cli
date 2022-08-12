@@ -1,5 +1,7 @@
 # Weather App - CLI
 
+![Screen grab of Weather CLI App](./sg.png)
+
 Weather CLI app written in Python to get current weather from a city.
 
 Displays weather data from: https://home.openweathermap.org/
