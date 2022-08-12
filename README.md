@@ -12,3 +12,8 @@ After you clone the repo, add a secrets.ini file to your root folder and include
 [openweather]
 api_key=<YOUR_OPEN_WEATHER_MAP_API_KEY>
 ```
+
+To start the app in Terminal use:
+
+`python weather.py honolulu --imperial` for Farenheit
+`python weather.py london` for Celcius
