@@ -2,6 +2,8 @@
 
 Weather CLI app written in Python to get current weather from a city.
 
+Displays weather data from: https://home.openweathermap.org/
+
 Take it for a spin:
 
 After you clone the repo, add a secrets.ini file to your root folder and include the following:
